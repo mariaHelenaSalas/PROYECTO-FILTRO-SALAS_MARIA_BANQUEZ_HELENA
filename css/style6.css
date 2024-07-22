@@ -1,0 +1,158 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.añadir{
+    position: absolute;
+    top: 5;                            
+    left: 25vh;
+}
+.añadir1{
+    position: absolute;
+    left: 20vh;
+    top: 1vw;
+}
+.reload{
+    position: absolute;
+    left: 22vw;
+    top: 1vw;
+}
+.refrescar{
+    position: absolute;
+    left: 25vw;
+    top: 5;
+}
+.delete{
+    position: absolute;
+    left: 35vw;
+    top: 1vw;
+}
+.eliminar{
+    position: absolute;
+    left: 38vw;
+    top: 5;
+}
+.logo{
+    position: absolute;
+    left: 45vw;
+    top: 1vw;
+}
+.repor{
+    position: absolute;
+    left: 55vw;
+    top: 1vw;
+}
+.reportar{
+    position: absolute;
+    left: 58vw;
+    top: 5;
+}
+.help{
+    position: absolute;
+    left: 67vw ;
+    top: 1vw;
+}
+.ayuda{
+    position: absolute;
+    left: 70vw;
+    top: 5;
+}
+.ajustes{
+    position: absolute;
+    left: 85vw;
+    top: 1.5vw;
+}
+.noti{
+    position: absolute;
+    left: 90vw;
+    top: 1.5vw;
+}
+.foto{
+    position: absolute;
+    left: 95vw;
+}
+.texto{
+
+    position: absolute;
+    top: 100%;
+}
+.contenedor2{
+    top: 10vw;
+    position: relative;
+
+    left: 20%;
+    font-size: 2cap;
+}
+.texto2{
+    font-size: 1em;
+}
+
+.table-container {
+    margin-left: -5vh; 
+}
+table {
+    margin-left: 1vw;
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #ffffff;
+    border: none;
+}
+tbody tr {
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    margin-bottom: 10px;
+    display: inline-table;
+    width: calc(100% - 20px);
+}
+tbody tr td {
+    border: none;
+    padding: 8px;
+}
+tbody tr {
+    display: table-row;
+}
+.red {
+    background-color: #ffcccc;
+    font-weight: bold;
+    border-radius: 25px;
+    padding: 5px;
+}
+.green {
+    background-color: #ccffcc;
+    font-weight: bold;
+    border-radius: 25px;
+    padding: 5px;
+}
+.orange {
+    background-color: #ffebcc;
+    font-weight: bold;
+    border-radius: 25px;
+    padding: 5px;
+}
+.contenedor2{
+    width: 25vw;
+    height: 5vh;
+   
+    border-radius: 7vw;
+    background-color: rgb(255, 115, 0);
+ 
+   
+}
+.boton{
+    width: 10vw;
+    height: 5vh;
+    background-color: orange;
+    top: 35vw ;
+    left: 35vw;
+    position: relative;
+    border-radius: 2vw;
+    border: none;
+
+}

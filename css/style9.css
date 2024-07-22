@@ -1,0 +1,151 @@
+body{
+    display: flex;
+    font-family: Arial, sans-serif;
+}
+.añadir{
+    position: absolute;
+    top: 5;                            
+    left: 25vh;
+}
+.añadir1{
+    position: absolute;
+    left: 20vh;
+    top: 1vw;
+}
+.reload{
+    position: absolute;
+    left: 22vw;
+    top: 1vw;
+}
+.refrescar{
+    position: absolute;
+    left: 25vw;
+    top: 5;
+}
+.delete{
+    position: absolute;
+    left: 35vw;
+    top: 1vw;
+}
+.eliminar{
+    position: absolute;
+    left: 38vw;
+    top: 5;
+}
+.logo{
+    position: absolute;
+    left: 45vw;
+    top: 1vw;
+}
+.repor{
+    position: absolute;
+    left: 55vw;
+    top: 1vw;
+}
+.reportar{
+    position: absolute;
+    left: 58vw;
+    top: 5;
+}
+.help{
+    position: absolute;
+    left: 67vw ;
+    top: 1vw;
+}
+.ayuda{
+    position: absolute;
+    left: 70vw;
+    top: 5;
+}
+.ajustes{
+    position: absolute;
+    left: 85vw;
+    top: 1.5vw;
+}
+.noti{
+    position: absolute;
+    left: 90vw;
+    top: 1.5vw;
+}
+.foto{
+    top: 5vw;
+ width: 10vw;
+    position: relative;
+    left: 80vw;
+}
+
+.perfil{
+    position: relative;
+    top: 5vw;
+    width: 100vw;
+    height: 20vh;
+    border-radius: 2vw;
+    background-color: rgb(255, 115, 0);
+}
+.telefono{
+    align-content: center;
+    text-align: center;
+    font-size: 2em;
+    width: 15vw;
+    height: 10vh;
+    border: 1px solid rgb(255, 102, 0);
+    border-radius: 1vw;
+    position: relative;
+    top: 1vw;
+    left: 10vh;
+}
+.correo{
+    align-content: center;
+    text-align: center;
+    font-size: 1em;
+    width: 15vw;
+    height: 10vh;
+    border: 1px solid rgb(255, 102, 0);
+    border-radius: 1vw;
+    position: relative;
+    top: 2vw;
+    left: 10vh;
+}
+.direccion{
+    align-content: center;
+    text-align: center;
+    font-size: 1em;
+    width: 15vw;
+    height: 10vh;
+    border: 1px solid rgb(255, 102, 0);
+    border-radius: 1vw;
+    position: relative;
+    top: 3vw;
+    left: 10vh;
+}
+.sesion{
+    text-decoration: none;
+    background-color: rgb(255, 102, 0);
+    align-content: center;
+    text-align: center;
+    font-size: 1em;
+    width: 7vw;
+    height: 7vh;
+    border: 1px solid rgb(255, 102, 0);
+    border-radius: 1vw;
+    position: relative;
+    top: 10vw;
+    left: 150vh;
+}
+.logo1{
+    width: 100vw;
+    position: relative;
+    top: -10vw;
+    left: 50vw;
+}
+.usuario{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    left: 2vw;
+    position: relative;
+}.nombre{
+    position: relative;
+    left: 25vw ;
+    top: -20vh;
+    font-size: 2em;
+}

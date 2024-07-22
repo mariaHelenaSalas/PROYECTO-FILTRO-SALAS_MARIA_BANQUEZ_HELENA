@@ -1,0 +1,151 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff;
+}
+
+.añadir{
+    position: absolute;
+    top: 1vw;                            
+    left: 25vh;
+  
+}
+.añadir1{
+    position: absolute;
+    left: 20vh;
+    top: 1.5vw;
+}
+.reload{
+    position: absolute;
+    left: 22vw;
+    top: 1.5vw;
+}
+.refrescar{
+    position: absolute;
+    left: 25vw;
+    top: 1vw;
+}
+.delete{
+    position: absolute;
+    left: 35vw;
+    top: 1.5vw;
+}
+.eliminar{
+    position: absolute;
+    left: 38vw;
+    top: 1vw;
+}
+.logo{
+    position: absolute;
+    left: 45vw;
+    top: 1.5vw;
+}
+.repor{
+    position: absolute;
+    left: 55vw;
+    top: 1.5vw;
+}
+.reportar{
+    position: absolute;
+    left: 58vw;
+    top: 1vw;
+}
+.help{
+    position: absolute;
+    left: 67vw ;
+    top: 1.5vw;
+}
+.ayuda{
+    position: absolute;
+    left: 70vw;
+    top: 1vw;
+}
+.ajustes{
+    position: absolute;
+    left: 85vw;
+    top: 1.5vw;
+}
+.noti{
+    position: absolute;
+    left: 90vw;
+    top: 1.5vw;
+}
+.foto{
+    position: absolute;
+    left: 95vw;
+    top: 0;
+}  
+
+.container {
+    bottom: 1px;
+    position: absolute;
+    margin-left: -30vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    border-radius: 2vw;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 800px;
+}
+.form-container {
+    background-color: #ff8800;
+    border-radius: 25px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+.form-container label {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.form-container input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    width: 100%;
+}
+.boton {
+    background-color: orange;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.boton:hover {
+    background-color: rgba(255, 8, 0, 0.219);
+}
+
+    
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+  
+}
+.logo-container img {
+    max-width: 100%;
+    height: auto;
+}
+.mensaje {
+    background-color: #fc7100;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border-radius: 1vw;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+

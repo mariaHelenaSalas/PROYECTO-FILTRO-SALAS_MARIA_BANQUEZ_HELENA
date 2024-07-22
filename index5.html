@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style5.css">
+</head>
+<script>
+    function confirmacion() {
+      var respuesta = confirm ("¿Deseas añadir?");
+      if ( respuesta == true){
+    return true; 
+      } else{
+        return false;
+      }
+    
+    }
+    </script>
+<body>
+    <div class="panelprincipal">
+        <a href="index5.html"><img class="añadir1" src="img/añadir.jpg" ></a>
+        <p class="añadir">Añadir</p>
+        <a href="index4.html"><img class="reload" src="img/reload.jpg" ></a>
+        <p class="refrescar">Refrescar </p>
+        <a href="index6.html"> <img class="delete" src="img/delete.jpg" ></a>
+        <p class="eliminar">Eliminar</p>
+        <img class="logo" src="img/kario sin kairo.jpg" >
+        <a href=""><img class="repor" src="img/reportar.jpg" ></a>
+        <p class="reportar">Reportar</p>
+        <a href=""><img class="help" src="img/help.jpg"></a>
+        <p class="ayuda">Ayuda </p>
+        <img class="ajustes" src="img/ajustes.jpg" >
+        <img class="noti" src="img/notificaciones.jpg" alt="">
+        <a href="index9.html"><img class="foto" src="img/pp.jpg" alt=""></a>
+
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="form-container">
+        <div class="mensaje">Por favor Ingrese los datos</div>
+        <label for="indicador">Indicador:</label>
+        <input type="text" id="indicador" name="indicador">
+        <label for="descripcion">Descripcion:</label>
+        <input type="text" id="descripcion" name="descripcion">
+        <label for="categoria">Categoría:</label>
+        <input type="text" id="categoria" name="categoria">
+        <label for="fecha-inicio">Fecha de inicio:</label>
+        <input type="date" id="fecha-inicio" name="fecha-inicio">
+        <label for="fecha-terminacion">Fecha de terminación:</label>
+        <input type="date" id="fecha-terminacion" name="fecha-terminacion">
+        <label for="formula">Fórmula:</label>
+        <input type="text" id="formula" name="formula">
+        <label for="frecuencia">Frecuencia:</label>
+        <input type="text" id="frecuencia" name="frecuencia">
+        <label for="cumplimiento">Cumplimiento:</label>
+        <input type="text" id="cumplimiento" name="cumplimiento">
+        <label for="area">Área:</label>
+        <input type="text" id="area" name="area">
+        <button  class="boton"   onclick="return confirmacion()">Añadir </button>
+    </div>
+    <div class="logo-container">
+        <img src="img/kario sin kairo (1) 1.png" alt="Logo">
+    </div>
+    
+</div>
+</body>
+</html>

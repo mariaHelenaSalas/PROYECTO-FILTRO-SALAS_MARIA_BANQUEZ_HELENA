@@ -1,0 +1,274 @@
+.panelpriincipal{
+    border-radius: 1.5vw;
+    padding: 1vw;
+}
+
+
+
+
+.añadir{
+    position: absolute;
+    top: 5;                            
+    left: 25vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.añadir1{
+    width: 2vw;
+    position: absolute;
+    left: 20vh;
+    top: 1vw;
+}
+
+.reload{
+    width: 2vw;
+    position: absolute;
+    left: 22vw;
+    top: 1vw;
+}
+
+.refrescar{
+    width: 2vw;
+    position: absolute;
+    left: 25vw;
+    top: 5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.delete{
+    width: 1.5vw;
+    position: absolute;
+    left: 35vw;
+    top: 1vw;
+}
+
+.eliminar{
+    position: absolute;
+    left: 38vw;
+    top: 5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    width: 2.5vw;
+    position: absolute;
+    left: 47vw;
+    top: 1vw;
+    
+}
+
+.repor{
+    width: 2vw;
+    position: absolute;
+    left: 57vw;
+    top: 1vw;
+    
+}
+
+
+.reportar{
+
+    position: absolute;
+    left: 60vw;
+    top: 5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.help{
+    width: 2vw;
+    position: absolute;
+    left: 70vw ;
+    top: 1vw;
+}
+
+.ayuda{
+    position: absolute;
+    left: 73vw;
+    top: 5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ajustes{
+    width: 1.5vw;
+    position: absolute;
+    left: 88vw;
+    top: 1vw;
+}
+
+.noti{
+    width: 1.5vw;
+    position: absolute;
+    left: 91vw;
+    top: 1vw;
+    
+}
+
+.foto{
+    position: absolute;
+    left: 95vw;
+}
+.titulo{
+    margin-left: 40vw;
+    margin-top: -78vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+    
+    
+}
+
+.titulo1{
+    margin-left: 30vw;
+    margin-top: 2vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1vw;
+}
+.titulo2{
+    
+    
+    padding: 0.2vw;
+    border-bottom: solid rgb(127, 122, 122);
+    margin-top: 0.5vw;
+}
+.t1{
+    margin-left: 6vw;
+    margin-top: 6vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t2{
+    margin-left: 17vw;
+    margin-top: -4vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t3{
+    margin-left: 28vw;
+    margin-top: -4vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t4{
+    margin-left: 35vw;
+    margin-top: -4vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t5{
+    margin-left: 44vw;
+    margin-top: -4vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t6{
+    margin-left: 56vw;
+    margin-top: -4vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t7{
+    margin-left: 64vw;
+    margin-top: -4vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t8{
+    margin-left: 72vw;
+    margin-top: -4vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t9{
+    margin-left: 82vw;
+    margin-top: -4vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.contenedor{
+    position: relative;
+    background-color: bl;
+    border-radius: 1.5vw;
+    padding: 1vw;
+    border: solid rgb(127, 122, 122);
+    margin-top: 10vw;
+    width: 82vw;
+    margin-left: 5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(109, 108, 108);
+    font-size: 0.9vw;
+     top: 2vh;
+    
+   
+   
+}
+.contenedor1{
+    position: relative;
+    top: 1vh;
+    background-color: bl;
+    border-radius: 1.5vw;
+    padding: 1vw;
+    border: solid rgb(127, 122, 122);
+    margin-top: 1vw;
+    text-align: 10vw;
+    width: 82vw;
+    margin-left: 5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(109, 108, 108);
+    font-size: 0.9vw;
+}
+.contenedor2{
+    background-color: bl;
+    border-radius: 1.5vw;
+    padding: 1vw;
+    border: solid rgb(127, 122, 122);
+    margin-top: 1vw;
+    width: 82vw;
+    margin-left: 5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(109, 108, 108);
+    font-size: 0.9vw;
+    
+}
+.contenedor3{
+    background-color: bl;
+    border-radius: 1.5vw;
+    padding: 1vw;
+    border: solid rgb(127, 122, 122);
+    margin-top: 1vw;
+    width: 82vw;
+    margin-left: 5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(109, 108, 108);
+    font-size: 0.9vw;
+}
+.contenedor4{
+    background-color: bl;
+    border-radius: 1.5vw;
+    padding: 1vw;
+    border: solid rgb(127, 122, 122);
+    margin-top: 1vw;
+    width: 82vw;
+    margin-left: 5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(109, 108, 108);
+    font-size: 0.9vw;
+}
+.contenedor5{
+    background-color: bl;
+    border-radius: 1.5vw;
+    padding: 1vw;
+    border: solid rgb(127, 122, 122);
+    margin-top: 1vw;
+    width: 82vw;
+    margin-left: 5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(109, 108, 108);
+    font-size: 0.9vw;
+}
+.boton{
+    
+    background-color: rgb(228, 141, 9);
+    font-size: 1.2vw;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    width: 16vw;
+    padding: 1.2vw;
+    margin-left: 40vw;
+    margin-top: 70vh;
+    border-radius: 2vw;
+    font-size: 1vw;
+    
+}
